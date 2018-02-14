@@ -1,0 +1,10 @@
+{
+  "name": "puppetfinland-raidfacts",
+  "version": "1.0.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Add facts that show RAID controller type",
+  "source": "https://github.com/Puppet-Finland/puppet-raidfacts.git",
+  "project_page": "https://github.com/Puppet-Finland/puppet-raidfacts",
+  "dependencies": [ ]
+}
