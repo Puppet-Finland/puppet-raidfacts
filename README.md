@@ -14,10 +14,6 @@ Currently the following facts are available:
 * *has_swraid*: returns true if Linux Software RAID is enabled on the node. Otherwise returns false.
 * *hwraid_type*: returns the RAID controller type (3w-9xxx, megaraid_sas, aacraid, 3w-sas)
 
-# Dependencies
-
-None
-
 # Operating system support
 
 The facts have currently been confined to Linux, but adding support for other 
